@@ -1,4 +1,4 @@
-package com.needcode.weather.chip
+package com.needcode.weather.Chip
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

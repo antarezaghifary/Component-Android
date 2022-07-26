@@ -1,4 +1,4 @@
-package com.needcode.weather
+package com.needcode.weather.Slider.Versi1
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

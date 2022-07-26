@@ -1,4 +1,4 @@
-package com.needcode.weather
+package com.needcode.weather.Slider.Versi2
 
 import android.os.Bundle
 import android.os.Handler
@@ -7,6 +7,7 @@ import androidx.recyclerview.widget.RecyclerView
 import androidx.viewpager2.widget.CompositePageTransformer
 import androidx.viewpager2.widget.MarginPageTransformer
 import androidx.viewpager2.widget.ViewPager2
+import com.needcode.weather.R
 import com.needcode.weather.databinding.ActivitySlideV2Binding
 import kotlin.math.abs
 

@@ -1,4 +1,4 @@
-package com.needcode.weather
+package com.needcode.weather.Slider.Versi2
 
 import android.annotation.SuppressLint
 import android.view.LayoutInflater
@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import androidx.viewpager2.widget.ViewPager2
 import com.makeramen.roundedimageview.RoundedImageView
+import com.needcode.weather.R
 
 class SliderAdapter internal constructor(
     sliderItem: MutableList<SliderItem>,
