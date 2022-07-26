@@ -96,4 +96,9 @@ dependencies {
 
     def imgSlide_version = '0.1.0'
     implementation "com.github.denzcoskun:ImageSlideshow:$imgSlide_version"
+
+    // ViewPage2
+    implementation 'androidx.viewpager2:viewpager2:1.0.0'
+    // RoundedImageView
+    implementation 'com.makeramen:roundedimageview:2.3.0'
 }
