@@ -6,6 +6,7 @@ import com.denzcoskun.imageslider.constants.ScaleTypes
 import com.denzcoskun.imageslider.models.SlideModel
 import com.needcode.weather.databinding.ActivitySlideBinding
 
+
 class SlideActivity : AppCompatActivity() {
 
     private val binding by lazy {
@@ -46,4 +47,5 @@ class SlideActivity : AppCompatActivity() {
             imageSlider.setImageList(imgList, ScaleTypes.FIT)
         }
     }
+
 }
