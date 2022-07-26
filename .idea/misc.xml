@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/activity_date_picker.xml" value="0.2" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.23333333333333334" />
+        <entry key="app/src/main/res/layout/activity_slide.xml" value="0.23333333333333334" />
+        <entry key="app/src/main/res/layout/custom_buttomsheet.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/custom_recyclerview_bottomsheet.xml" value="0.14" />
+        <entry key="app/src/main/res/layout/custom_rv_buttomsheet.xml" value="0.23333333333333334" />
+        <entry key="app/src/main/res/layout/custom_searchview_rv_bottomsheet.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/custom_txt_buttomsheet.xml" value="0.1" />
       </map>
     </option>
   </component>

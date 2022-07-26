@@ -11,6 +11,7 @@ class Weather:Application() {
         Timber.e("run base application")
 
         AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO)
+
     }
 
 }
