@@ -1,4 +1,4 @@
-package com.needcode.weather.TabLayout
+package com.needcode.weather.tablayout
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

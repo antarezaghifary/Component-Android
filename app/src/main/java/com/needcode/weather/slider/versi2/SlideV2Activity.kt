@@ -1,4 +1,4 @@
-package com.needcode.weather.Slider.Versi2
+package com.needcode.weather.slider.versi2
 
 import android.os.Bundle
 import android.os.Handler
@@ -25,7 +25,6 @@ class SlideV2Activity : AppCompatActivity() {
         setContentView(binding.root)
 
         with(binding) {
-            imageSlider
             val sliderItem: MutableList<SliderItem> = ArrayList()
             sliderItem.add(SliderItem(R.drawable.image1))
             sliderItem.add(SliderItem(R.drawable.image2))

@@ -1,4 +1,4 @@
-package com.needcode.weather.TabLayout
+package com.needcode.weather.tablayout
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager

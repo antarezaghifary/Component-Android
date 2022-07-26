@@ -19,7 +19,7 @@
         android:theme="@style/Theme.WeatherApp"
         tools:targetApi="31">
         <activity
-            android:name=".Chip.ChipActivity"
+            android:name=".rvparentchild.RVParentChildActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,19 +28,21 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".TabLayout.TabLayoutActivity"
-            android:exported="true">
-        </activity>
-        <activity
-            android:name=".Slider.Versi2.SlideV2Activity"
+            android:name=".chip.ChipActivity"
             android:exported="true">
 
         </activity>
         <activity
-            android:name=".Slider.Versi1.SlideActivity"
+            android:name=".tablayout.TabLayoutActivity"
+            android:exported="true"></activity>
+        <activity
+            android:name=".slider.versi2.SlideV2Activity"
+            android:exported="true"></activity>
+        <activity
+            android:name=".slider.versi1.SlideActivity"
             android:exported="true" />
         <activity
-            android:name=".DatePicker.DatePickerActivity"
+            android:name=".datepicker.DatePickerActivity"
             android:exported="true" />
         <activity
             android:name=".MainActivity"

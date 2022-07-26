@@ -1,4 +1,4 @@
-package com.needcode.weather.Slider.Versi2
+package com.needcode.weather.slider.versi2
 
 import android.annotation.SuppressLint
 import android.view.LayoutInflater

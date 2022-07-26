@@ -1,4 +1,4 @@
-package com.needcode.weather.DatePicker
+package com.needcode.weather.datepicker
 
 import android.os.Bundle
 import android.widget.Toast
