@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_chip.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_date_picker.xml" value="0.2" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.23333333333333334" />
         <entry key="app/src/main/res/layout/activity_slide.xml" value="0.2" />

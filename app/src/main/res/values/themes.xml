@@ -21,6 +21,12 @@
     <style name="BaseBottomSheetDialog" parent="@style/Theme.Design.Light.BottomSheetDialog">
         <item name="android:windowIsFloating">false</item>
         <item name="bottomSheetStyle">@style/BottomSheet</item>
-        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="customChipStyle" parent="Widget.MaterialComponents.Chip.Filter">
+        <item name="chipBackgroundColor">@color/chip_bg</item>
+        <item name="android:textColor">@color/chip_text</item>
+        <item name="checkedIconTint">@color/white</item>
+        <item name="rippleColor">@color/grey_font</item>
     </style>
 </resources>
