@@ -9,7 +9,7 @@
         <entry key="app/src/main/res/layout/activity_date_picker.xml" value="0.2" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.12" />
         <entry key="app/src/main/res/layout/activity_rvparent_child.xml" value="0.1648148148148148" />
-        <entry key="app/src/main/res/layout/activity_show_toolbar.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_show_toolbar.xml" value="0.18" />
         <entry key="app/src/main/res/layout/activity_slide.xml" value="0.2" />
         <entry key="app/src/main/res/layout/activity_slide_v2.xml" value="0.14444444444444443" />
         <entry key="app/src/main/res/layout/activity_tab_layout.xml" value="0.14444444444444443" />
@@ -29,6 +29,7 @@
         <entry key="app/src/main/res/layout/list_child.xml" value="0.1648148148148148" />
         <entry key="app/src/main/res/layout/list_parent.xml" value="0.1648148148148148" />
         <entry key="app/src/main/res/layout/slide_item.xml" value="0.14444444444444443" />
+        <entry key="app/src/main/res/layout/toolbar_contoh.xml" value="0.15" />
         <entry key="app/src/main/res/layout/toolbar_example.xml" value="0.25" />
         <entry key="app/src/main/res/menu/menu_home.xml" value="0.1648148148148148" />
       </map>
