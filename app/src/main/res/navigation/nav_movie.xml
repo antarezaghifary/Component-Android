@@ -7,29 +7,29 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="com.needcode.weather.bottom_nav.Page1Fragment"
+        android:name="com.needcode.component.bottom_nav.Page1Fragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_page1" />
     <fragment
         android:id="@+id/navigation_genre"
-        android:name="com.needcode.weather.bottom_nav.Page2Fragment"
+        android:name="com.needcode.component.bottom_nav.Page2Fragment"
         android:label="fragment_genre"
         tools:layout="@layout/fragment_page2" />
 
     <fragment
         android:id="@+id/navigation_home2"
-        android:name="com.needcode.weather.bottom_nav.Page1Fragment"
+        android:name="com.needcode.component.bottom_nav.Page1Fragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_page1" />
     <fragment
         android:id="@+id/navigation_genre2"
-        android:name="com.needcode.weather.bottom_nav.Page2Fragment"
+        android:name="com.needcode.component.bottom_nav.Page2Fragment"
         android:label="fragment_genre"
         tools:layout="@layout/fragment_page2" />
 
     <fragment
         android:id="@+id/navigation_home3"
-        android:name="com.needcode.weather.bottom_nav.Page1Fragment"
+        android:name="com.needcode.component.bottom_nav.Page1Fragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_page1" />
 

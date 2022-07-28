@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.needcode.weather">
+    package="com.needcode.component">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
 
     <application
-        android:name=".Weather"
+        android:name="com.needcode.component.Component"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -19,7 +19,7 @@
         android:theme="@style/Theme.WeatherApp"
         tools:targetApi="31">
         <activity
-            android:name=".piechart.PieChartActivity"
+            android:name="com.needcode.component.piechart.PieChartActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,33 +28,33 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".bottom_nav.BottomNavActivity"
+            android:name="com.needcode.component.bottom_nav.BottomNavActivity"
             android:exported="true">
 
         </activity>
         <activity
-            android:name=".toolbar.ShowToolbarActivity"
+            android:name="com.needcode.component.toolbar.ShowToolbarActivity"
             android:exported="true"></activity>
         <activity
-            android:name=".rvparentchild.RVParentChildActivity"
+            android:name="com.needcode.component.rvparentchild.RVParentChildActivity"
             android:exported="true" />
         <activity
-            android:name=".chip.ChipActivity"
+            android:name="com.needcode.component.chip.ChipActivity"
             android:exported="true" />
         <activity
-            android:name=".tablayout.TabLayoutActivity"
+            android:name="com.needcode.component.tablayout.TabLayoutActivity"
             android:exported="true" />
         <activity
-            android:name=".slider.versi2.SlideV2Activity"
+            android:name="com.needcode.component.slider.versi2.SlideV2Activity"
             android:exported="true" />
         <activity
-            android:name=".slider.versi1.SlideActivity"
+            android:name="com.needcode.component.slider.versi1.SlideActivity"
             android:exported="true" />
         <activity
-            android:name=".datepicker.DatePickerActivity"
+            android:name="com.needcode.component.datepicker.DatePickerActivity"
             android:exported="true" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.needcode.component.MainActivity"
             android:exported="true" />
     </application>
 
