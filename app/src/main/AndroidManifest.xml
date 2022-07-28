@@ -19,7 +19,7 @@
         android:theme="@style/Theme.WeatherApp"
         tools:targetApi="31">
         <activity
-            android:name="com.needcode.component.piechart.PieChartActivity"
+            android:name=".onboarding.OnBoardingActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,13 +28,16 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.needcode.component.bottom_nav.BottomNavActivity"
+            android:name="com.needcode.component.piechart.PieChartActivity"
             android:exported="true">
 
         </activity>
         <activity
-            android:name="com.needcode.component.toolbar.ShowToolbarActivity"
+            android:name="com.needcode.component.bottom_nav.BottomNavActivity"
             android:exported="true"></activity>
+        <activity
+            android:name="com.needcode.component.toolbar.ShowToolbarActivity"
+            android:exported="true" />
         <activity
             android:name="com.needcode.component.rvparentchild.RVParentChildActivity"
             android:exported="true" />

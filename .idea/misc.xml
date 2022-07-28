@@ -4,10 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/icon_bg.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/icon_outer_bg.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/indicator_active_bg.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/indicator_inactive_bg.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_bottom_nav.xml" value="0.11" />
         <entry key="app/src/main/res/layout/activity_chip.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_date_picker.xml" value="0.2" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="app/src/main/res/layout/activity_on_boarding.xml" value="0.15555555555555556" />
         <entry key="app/src/main/res/layout/activity_pie_chart.xml" value="0.2" />
         <entry key="app/src/main/res/layout/activity_rvparent_child.xml" value="0.1648148148148148" />
         <entry key="app/src/main/res/layout/activity_show_toolbar.xml" value="0.18" />
@@ -30,6 +35,7 @@
         <entry key="app/src/main/res/layout/list_child.xml" value="0.1648148148148148" />
         <entry key="app/src/main/res/layout/list_lagend.xml" value="0.13240740740740742" />
         <entry key="app/src/main/res/layout/list_parent.xml" value="0.1648148148148148" />
+        <entry key="app/src/main/res/layout/onboarding_item_container.xml" value="0.15555555555555556" />
         <entry key="app/src/main/res/layout/slide_item.xml" value="0.14444444444444443" />
         <entry key="app/src/main/res/layout/toolbar_contoh.xml" value="0.15" />
         <entry key="app/src/main/res/layout/toolbar_example.xml" value="0.25" />
